@@ -1,0 +1,22 @@
+{
+  "name": "LylibTest",
+  "version": "0.1.0",
+  "summary": "A short description of LylibTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LSyxj/LylibTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LSyxj": "1554165440@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LSyxj/LylibTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LylibTest/Classes/**/*"
+}
