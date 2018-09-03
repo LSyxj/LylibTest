@@ -1,0 +1,7 @@
+use_frameworks!
+target 'LylibTest_Tests' do
+  pod 'LylibTest', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
